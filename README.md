@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Huobi WT
+- 🔭 I’m currently working on Frontend Development at Huobi WT
 - 🌱 I’m currently learning IPFS
 - 👯 I’m looking to collaborate on @monoidcc
 - 🤔 I’m looking for help with decentralized web app architecture
