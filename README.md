@@ -4,6 +4,9 @@
   <a href="https://github.com/ampcpmgp/ampcpmgp/">
     <img src="https://komarev.com/ghpvc/?username=ampcpmgp" alt="ampcpmgp" />
   </a>
+  <a href="[http://twitter.com/am_nimitz3](https://bsky.app/profile/am-ak3.bsky.social)">
+    <img height="20" src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" />
+  </a>
   <a href="http://twitter.com/am_nimitz3">
     <img height="20" src="https://img.shields.io/twitter/follow/am_nimitz3?label=Twitter&logo=twitter&style=flat" />
   </a>
@@ -18,14 +21,14 @@
   </a>
 </p>
   
-- 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning agritech.
+- 🔭 I am working on front-end & back-end development.
+- 💧 I am studying Hydrogen Energy.
 - 👯 I’m looking to collaborate on Svelte Japan.
 - 🤔 I’m looking for help with automated farming.
-- 💬 Ask me about Japan
-- 📫 How to reach me: https://twitter.com/am_nimitz3 
-- ⚡ Fun fact: I read "As A Man Thinketh" every 1~2 years, and I've been reading it for about 10 rounds.
-
+- 💬 Ask me about "As A Man Thinketh".
+- 📫 Contact: https://bsky.app/profile/am-ak3.bsky.social
+- ⚡ Fun fact: I love saunas and water baths!
+- 
 ### WakaTime last 30 days report 🐾
 
 | Coding Activity | Languages |
