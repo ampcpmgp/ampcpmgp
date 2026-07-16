@@ -48,7 +48,7 @@ AI Coding Tool        | Hermes Agent & OpenRouter, Claude Code
 データベース           | MongoDB, Redis
 バージョン管理         | Bitbucket
 DevOps                | CircleCI
-プロジェクト管理       | Confluence, Bitbucket
+プロジェクト管理       | Confluence, JIRA
 
 
 ## WakaTime last 30 days report 🐾
