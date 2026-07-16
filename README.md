@@ -27,7 +27,7 @@
 
 カテゴリ              | 技術                                                              
 ----------------------|-------------------------------------------------------------------
-AIDevOps              | n8n, Hermes Gateway (Discord), Cloudflare
+AIDevOps              | n8n, Hermes Gateway (Discord), Local WSL, Cloudflare
 AI Coding Tool        | Hermes Agent & Opencode Go
 フロントエンド         | JavaScript, Vanilla JS
 バックエンド           | Bun/Hono, nginx
