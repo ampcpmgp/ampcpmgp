@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <p align="left"> 
   <a href="https://github.com/ampcpmgp/ampcpmgp/">
@@ -13,23 +13,44 @@
   <a href="https://github.com/ampcpmgp">
     <img height="20" src="https://img.shields.io/github/followers/ampcpmgp?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/am_nimitz3">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/am_nimitz3/posts.svg" />
-  </a>
   <//qiita.com/am_nimitz3">
     <img height="20" src="https://qiita-badge.apiapi.app/s/am_nimitz3/contributions.svg" />
   </a>
 </p>
-  
-- 🔭 I am working on front-end & back-end development.
-- 💧 I am studying Hydrogen Energy.
-- 👯 I’m looking to collaborate on Svelte Japan.
-- 🤔 I’m looking for help with automated farming.
-- 💬 Ask me about "As A Man Thinketh".
-- 📫 Contact: https://bsky.app/profile/am-ak3.bsky.social
-- ⚡ Fun fact: I love saunas and water baths!
-- 
-### WakaTime last 30 days report 🐾
+
+- 🔭 Frontend・AIDevOps 開発に従事
+- 💬 「As A Man Thinketh」という哲学書が好きです
+- ⚡ サウナ・水風呂が大好きです！
+- 🐑 AIキャラクター「[メリノ](https://x.com/mokomoko_merino)」を開発してます
+
+## 個人開発スキルセット
+
+カテゴリ              | 技術                                                              
+----------------------|-------------------------------------------------------------------
+AIDevOps              | n8n, Hermes Gateway (Discord), Cloudflare
+AI Coding Tool        | Hermes Agent & Opencode Go
+フロントエンド         | JavaScript, Vanilla JS
+バックエンド           | Bun/Hono, nginx
+音声/AI               | ElevenLabs, Fish Audio, Kits AI
+画像/AI               | Fal AI (Seedream v1.5, nano-banana, nano-banana-2, gpt-image-2)
+バージョン管理         | GitHub
+DevOps                | GitHub Actions
+
+## 直近業務スキルセット
+
+カテゴリ              | 技術                                                              
+----------------------|------------------------------------------------------------------
+AIDevOps              | n8n, Hermes Gateway (Google Chat), Runpod, Cloudflare
+AI Coding Tool        | Hermes Agent & OpenRouter, Claude Code
+フロントエンド         | TypeScript, React
+バックエンド           | NestJS
+データベース           | MongoDB, Redis
+バージョン管理         | Bitbucket
+DevOps                | CircleCI
+プロジェクト管理       | Confluence, Bitbucket
+
+
+## WakaTime last 30 days report 🐾
 
 | Coding Activity | Languages |
 | ----------- | ----------- |
