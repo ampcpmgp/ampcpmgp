@@ -18,7 +18,7 @@
   </a>
 </p>
 
-- 🔭 Frontend/AIDevOps 開発に従事
+- 🔭 フロントエンド開発、AIDevOps 開発をしています
 - 💬 「As A Man Thinketh」という哲学書が好きです
 - ⚡ サウナ・水風呂が大好きです！
 - 🐑 AIキャラクター「[メリノ](https://x.com/mokomoko_merino)」を開発してます
