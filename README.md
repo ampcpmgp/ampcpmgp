@@ -31,8 +31,9 @@ AIDevOps              | n8n, Hermes Gateway (Discord), Local WSL, Cloudflare
 AI Coding Tool        | Hermes Agent & Opencode Go
 フロントエンド         | JavaScript, Vanilla JS
 バックエンド           | Bun/Hono, nginx
+画像/AI               | Fal AI (Seedream 1.5, nano-banana, nano-banana-2, gpt-image-2)
+動画/AI               | Fal AI (Seedance 2.0)
 音声/AI               | ElevenLabs, Fish Audio, Kits AI
-画像/AI               | Fal AI (Seedream v1.5, nano-banana, nano-banana-2, gpt-image-2)
 バージョン管理         | GitHub
 DevOps                | GitHub Actions
 
