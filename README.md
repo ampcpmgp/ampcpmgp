@@ -28,28 +28,28 @@
 
 カテゴリ                | 技術                                                              
 ----------------------|-------------------------------------------------------------------
-AIDevOps              | n8n, Hermes Gateway (Discord)
-AI Coding Tool        | Hermes Agent & Opencode Go
-フロントエンド           | JavaScript, Vanilla JS
-バックエンド             | Bun/Hono, nginx
+AIDevOps              | n8n, Hermes Gateway (& Discord)
+AI Coding Tool        | Hermes Agent (& Opencode Go)
+フロントエンド          | JavaScript, Vanilla JS
+バックエンド            | Bun/Hono, nginx
 画像/AI                | Fal AI (Seedream 4.5, nano-banana, nano-banana-2, gpt-image-2)
 動画/AI                | Fal AI (Seedance 2.0)
 音声/AI                | ElevenLabs, Fish Audio, Kits AI
-バージョン管理           | GitHub
+バージョン管理          | GitHub
 DevOps                | GitHub Actions
 
 ## 直近業務スキルセット
 
-カテゴリ                | 技術                                                              
+カテゴリ               | 技術                                                              
 ----------------------|------------------------------------------------------------------
-AIDevOps              | n8n, Hermes Gateway (Google Chat), Runpod
-AI Coding Tool        | Hermes Agent & OpenRouter, Claude Code
-フロントエンド            | TypeScript, React
-バックエンド             | NestJS
-データベース             | MongoDB, Redis
-バージョン管理            | Bitbucket
-DevOps                | CircleCI
-プロジェクト管理          | Confluence, JIRA
+AIDevOps              | n8n, Hermes Gateway (& Google Chat), Runpod
+AI Coding Tool        | Hermes Agent (& OpenRouter), Claude Code
+フロントエンド          | TypeScript, React
+バックエンド            | NestJS
+データベース            | MongoDB, Redis
+バージョン管理          | Bitbucket
+DevOps                 | CircleCI
+プロジェクト管理        | Confluence, JIRA
 
 
 ## WakaTime last 30 days report 🐾
