@@ -19,10 +19,10 @@
 </p>
 
 - 🔭 フロントエンド開発、AIDevOps 開発に従事しています
-- 💬 「As A Man Thinketh」という哲学書が好きです
 - ⚡ サウナ・水風呂が大好きです！
 - 🐑 AIキャラクター「[メリノ](https://x.com/mokomoko_merino)」を開発してます
 - 🔉 生成AIの論文を学ぶ Podcast [NotebookLMで学ぶお布団さん](https://open.spotify.com/show/0J1AFi5Zy8gKTXYiQ0v0AF) を公開しています
+- 💬 「As A Man Thinketh」という哲学書が好きです
 
 ## 個人開発スキルセット
 
