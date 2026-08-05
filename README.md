@@ -45,7 +45,7 @@ DevOps                | GitHub Actions
 
 カテゴリ               | 技術                                                              
 ----------------------|------------------------------------------------------------------
-AIDevOps              | n8n, Hermes Gateway (& Google Chat), Runpod
+AIDevOps              | Hermes Gateway (& Google Chat), n8n, Runpod
 AI Coding Tool        | Hermes Agent (& OpenRouter), Claude Code
 フロントエンド          | TypeScript, React
 バックエンド            | NestJS
