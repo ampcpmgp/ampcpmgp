@@ -21,6 +21,7 @@
 - 🔭 フロントエンド開発、AIDevOps 開発に従事しています
 - ⚡ サウナ・水風呂が大好きです！
 - 🐑 AIキャラクター「[メリノ](https://x.com/mokomoko_merino)」を開発してます
+- 🐏 メリノの多言語対応（英語・簡体字・韓国語・繁体字）は [lit.link](https://lit.link/m-merino) にリンクを載せています！
 - 🔉 生成AIの論文を学ぶ Podcast [NotebookLMで学ぶお布団さん](https://open.spotify.com/show/0J1AFi5Zy8gKTXYiQ0v0AF) を公開しています
 - 💬 「[As A Man Thinketh](https://www.gutenberg.org/ebooks/4507)」という哲学書が大好きで、適切なライセンスのもとで[翻訳・公開](https://github.com/ampcpmgp/as-a-man-thinketh-translation/blob/main/JA.md)しています
 
