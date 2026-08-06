@@ -33,6 +33,7 @@
 ----------------------|-------------------------------------------------------------------
 AIDevOps              | Hermes Gateway (& Discord), n8n
 AI Coding Tool        | Hermes Agent (& Ollama Cloud)
+インフラ               | Vercel, Cloudflare
 フロントエンド          | JavaScript, Vanilla JS
 バックエンド            | Bun/Hono, nginx
 画像/AI                | Fal AI (Seedream 4.5, nano-banana, nano-banana-2, gpt-image-2)
@@ -47,6 +48,7 @@ DevOps                | GitHub Actions
 ----------------------|------------------------------------------------------------------
 AIDevOps              | Hermes Gateway (& Google Chat), n8n, Runpod
 AI Coding Tool        | Hermes Agent (& OpenRouter), Claude Code
+インフラ               | AWS
 フロントエンド          | TypeScript, React
 バックエンド            | NestJS
 データベース            | MongoDB, Redis
