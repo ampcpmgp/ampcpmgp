@@ -40,7 +40,8 @@ AI Coding Tool        | Hermes Agent (& Ollama Cloud)
 動画/AI                | Fal AI (Seedance 2.0)
 音声/AI                | ElevenLabs, Fish Audio, Kits AI
 バージョン管理          | GitHub
-DevOps                | GitHub Actions
+DevOps                 | GitHub Actions
+Coding Tool            | Zed
 
 ## 直近業務スキルセット
 
@@ -54,7 +55,8 @@ AI Coding Tool        | Hermes Agent (& OpenRouter), Claude Code
 データベース            | MongoDB, Redis
 バージョン管理          | Bitbucket
 DevOps                 | CircleCI
-プロジェクト管理        | Confluence, JIRA
+プロジェクト管理         | Confluence, JIRA
+Coding Tool            | Zed, VSCode
 
 
 ## WakaTime last 30 days report 🐾
