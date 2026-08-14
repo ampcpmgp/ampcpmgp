@@ -23,6 +23,7 @@
 - 🐑 AIキャラクター「[メリノ](https://x.com/mokomoko_merino)」を開発してます
 - 🐏 メリノの多言語対応（英語・簡体字・韓国語・繁体字）や SHOP は [lit.link](https://lit.link/m-merino) にリンクを載せています！
 - 🔉 生成AIの論文を学ぶ Podcast [NotebookLMで学ぶお布団さん](https://open.spotify.com/show/0J1AFi5Zy8gKTXYiQ0v0AF) を公開しています
+- 🐴 GitHub で動き回る [pm-onyx-bot](https://github.com/pm-onyx-bot) で開発しています
 - 💬 「[As A Man Thinketh](https://www.gutenberg.org/ebooks/4507)」という哲学書が大好きで、適切なライセンスのもとで[翻訳・公開](https://github.com/ampcpmgp/as-a-man-thinketh-translation/blob/main/JA.md)しています
 
 <!-- 🤖 Bluesky にて [開発者向けLLMリーダーボード](https://bsky.app/profile/devllmlb-ja.bsky.social) を投稿するアカウントを開設・公開しました -->
