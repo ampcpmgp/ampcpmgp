@@ -32,7 +32,7 @@
 
 カテゴリ                | 技術                                                              
 ----------------------|-------------------------------------------------------------------
-AIDevOps              | Hermes Gateway (& Discord), n8n
+AIDevOps              | Hermes Messaging Gateway (& Discord), n8n
 AI Coding Tool        | Hermes Agent (& Ollama Cloud)
 インフラ               | Vercel, Cloudflare
 フロントエンド          | JavaScript, Vanilla JS
@@ -48,7 +48,7 @@ Coding Tool            | Zed
 
 カテゴリ               | 技術                                                              
 ----------------------|------------------------------------------------------------------
-AIDevOps              | Hermes Gateway (& Google Chat), n8n, Runpod
+AIDevOps              | Hermes Messaging Gateway (& Google Chat), n8n, Runpod
 AI Coding Tool        | Hermes Agent (& OpenRouter), Claude Code
 インフラ               | AWS
 フロントエンド          | TypeScript, React
