@@ -34,7 +34,7 @@
 ----------------------|-------------------------------------------------------------------
 AIDevOps              | Hermes Messaging Gateway (& Discord), n8n
 AI Coding Tool        | Hermes Agent (& Ollama Cloud)
-インフラ               | Vercel, Cloudflare
+インフラ               | Vercel, Cloudflare, Turso, Upstash Redis
 フロントエンド          | JavaScript, Vanilla JS
 バックエンド            | Bun/Hono, nginx
 画像/AI                | Fal AI (Seedream 4.5, nano-banana, nano-banana-2, gpt-image-2)
