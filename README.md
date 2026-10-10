@@ -34,11 +34,12 @@
 ----------------------|-------------------------------------------------------------------
 AIDevOps              | Hermes Messaging Gateway (& Discord), n8n
 AI Coding Tool        | Hermes Agent (& Ollama Cloud, Codex, Nous Portal, ...etc)
-インフラ               | Vercel, Cloudflare, Turso, Upstash Redis, DeepInfra
+AIインフラ             | DeepInfra, OpenRouter, Thunder Compute, Fal AI
+インフラ               | Vercel, Cloudflare, Turso, Upstash Redis, AWS SES
 フロントエンド          | JavaScript, Vanilla JS
 バックエンド            | Bun/Hono, nginx
-画像/AI                | Fal AI (Seedream 4.5, nano-banana, nano-banana-2, gpt-image-2)
-動画/AI                | Fal AI (Seedance 2.0)
+画像/AI                | Seedream 4.5, nano-banana, nano-banana-2, gpt-image-2.5
+動画/AI                | Seedance 2.0
 音声/AI                | ElevenLabs, Fish Audio, Kits AI
 バージョン管理          | GitHub
 DevOps                 | GitHub Actions
