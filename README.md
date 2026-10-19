@@ -3,7 +3,7 @@
 <p align="left"> 
   <a href="https://github.com/ampcpmgp/ampcpmgp/">
     <img src="https://komarev.com/ghpvc/?username=ampcpmgp" alt="ampcpmgp" />
-  </a>
+  </a>https://github.com/ampcpmgp/ampcpmgp/blob/master/README.md
   <a href="[http://twitter.com/am_nimitz3](https://bsky.app/profile/am-ak3.bsky.social)">
     <img height="20" src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" />
   </a>
@@ -23,11 +23,11 @@
 - 💧 VR動画生成・閲覧プラットフォーム [AMANE](https://amane.harinezumi-m.org/) をリリースしました!!
 - 🐑 AIキャラクター「[メリノ](https://x.com/mokomoko_merino)」を開発してます
 - 🐏 メリノの多言語対応（英語・簡体字・韓国語・繁体字）や SHOP は [lit.link](https://lit.link/m-merino) にリンクを載せています！
-- 🔉 生成AIの論文を学ぶ Podcast [NotebookLMで学ぶお布団さん](https://open.spotify.com/show/0J1AFi5Zy8gKTXYiQ0v0AF) を公開しています
 - 🐴 GitHub で動き回る [pm-onyx-bot](https://github.com/pm-onyx-bot) で開発しています
+- 🤖 Bluesky にて [開発者向けLLMリーダーボード](https://bsky.app/profile/devllmlb-ja.bsky.social) を投稿するアカウントを開設・公開しました
 - 💬 「[As A Man Thinketh](https://www.gutenberg.org/ebooks/4507)」という哲学書が大好きで、適切なライセンスのもとで[翻訳・公開](https://github.com/ampcpmgp/as-a-man-thinketh-translation/blob/main/JA.md)しています
 
-<!-- 🤖 Bluesky にて [開発者向けLLMリーダーボード](https://bsky.app/profile/devllmlb-ja.bsky.social) を投稿するアカウントを開設・公開しました -->
+<!-- 🔉 生成AIの論文を学ぶ Podcast [NotebookLMで学ぶお布団さん](https://open.spotify.com/show/0J1AFi5Zy8gKTXYiQ0v0AF) を公開しています -->
 
 ## 個人開発スキルセット
 
